@@ -1,4 +1,7 @@
-# test coverage for  [stringify-object (v3.2.0)](https://github.com/yeoman/stringify-object#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-stringify-object.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stringify-object) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stringify-object.svg)](https://travis-ci.org/npmtest/node-npmtest-stringify-object)
+# npmtest-stringify-object
+
+#### basic test-coverage for  [stringify-object (v3.2.0)](https://github.com/yeoman/stringify-object#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-stringify-object.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stringify-object) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stringify-object.svg)](https://travis-ci.org/npmtest/node-npmtest-stringify-object)
+
 #### Stringify an object/array like JSON.stringify just without all the double-quotes
 
 [![NPM](https://nodei.co/npm/stringify-object.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/stringify-object)
@@ -105,7 +108,8 @@
     "version": "3.2.0",
     "xo": {
         "esnext": true
-    }
+    },
+    "bin": {}
 }
 ```
 
